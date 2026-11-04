@@ -6,7 +6,7 @@ Hey, I'm Amarthya — a CSE student interested in software development, design, 
 
 ## I code with:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,c,cpp,java,python,nodejs,flutter,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,c,cpp,git,github" />
 </p>
 
 ## Connect with me:
