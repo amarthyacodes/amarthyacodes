@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I'm Amarthya, a Computer Science and Engineering student based in Kochi. I enjoy building things, experimenting with different technologies, and bringing ideas to life.
+Hey, I'm Amarthya — a CSE student interested in software development, design, and building things that make me curious. Currently exploring the world of web and backend development, one project at a time.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BB9AF7&width=435&separator=%3C&lines=printf%28%22hello%2C+world%22%29;)](https://git.io/typing-svg)
 
